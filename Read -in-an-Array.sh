@@ -1,4 +1,4 @@
-array=()
+array=();
 while read line
 do
  array=("${array[@]}" $line)
